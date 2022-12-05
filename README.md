@@ -1,7 +1,8 @@
 # Trading-Options-Resources-for-Beginners
 
-image credits:
-Photo by Tima Miroshnichenko: https://www.pexels.com/photo/hand-holding-android-smartphone-displaying-data-7567441/
+image credits: By Tobi Riley
+https://iconscout.com/icon/stock-chart-2654150
+
 
 I will create a landing page that offers free day-trading resources to beginners.
 
